@@ -1,6 +1,6 @@
-## Go Etherchain
+## Go PowBlocks
 
-Official Golang execution layer implementation of Etherchain.
+Official Golang execution layer implementation of PowBlocks.
 
 
 ## Building the source
